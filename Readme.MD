@@ -1,4 +1,6 @@
-THOUGHT PROCESS:
+![Screenshot 2023-06-15 232215](https://github.com/khaymanii/Swiftcargo/assets/116851212/66069088-705c-484e-b14f-985b2cde99c3)
+
+## THOUGHT PROCESS:
 
 
 The thought process for designing a logistics company landing page involves considering the goals, target audience, branding, and desired user experience.
